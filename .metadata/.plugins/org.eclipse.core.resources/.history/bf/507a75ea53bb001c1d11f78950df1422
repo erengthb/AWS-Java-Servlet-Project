@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Dosya Yükleme</title>
+</head>
+<body>
+
+<div align ="center">
+
+<div><h1>S3  Dosya Yükleme</h1></div>
+<div>
+<form action ="upload" method = "post" encytpe = "multipart/form-data">
+<p> Description : <input type ="text" name= "description" size="30" required/> </p>
+
+<p> <input type ="file" name = "file" required /></p>
+
+
+</form>
+</div>
+</div>
+
+
+</body>
+</html>

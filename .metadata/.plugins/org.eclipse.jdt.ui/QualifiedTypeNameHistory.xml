@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.model.Part"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.MultipartConfig"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Part"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.S3Client"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.services.s3.model.PutObjectRequest"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.core.sync.RequestBody"/>
+    <fullyQualifiedTypeName name="net.codejava.aws.S3Util"/>
+    <fullyQualifiedTypeName name="software.amazon.awssdk.regions.Region"/>
+</qualifiedTypeNameHistroy>

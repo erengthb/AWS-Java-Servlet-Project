@@ -1,0 +1,44 @@
+package net.codejava.aws;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.MultipartConfig;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/upload")
+@MultipartConfig(
+		
+		fileSizeThreshold = 1024 * 1024,  // 1MB
+		maxFileSize = 1024 * 1024 *10, //10MB
+		maxRequestSize = 1024 * 1024 *11
+		
+		
+		)
+
+
+public class FileUploadServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    
+    public FileUploadServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String description =request .getParameter("description");
+		
+		System.out.println("Açýklama : " +description);
+		
+		
+		Part part = request.getPart("file");
+		
+		
+	}
+
+}

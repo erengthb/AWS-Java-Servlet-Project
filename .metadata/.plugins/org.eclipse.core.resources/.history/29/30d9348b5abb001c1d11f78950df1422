@@ -1,0 +1,14 @@
+package net.codejava.aws;
+
+import java.io.InputStream;
+
+public class S3Util {
+
+	public static void uploadFile (String fileName , InputStream inputStream) {
+		
+		
+		
+		
+	}
+	
+}
