@@ -19,6 +19,8 @@
   </dependencies>
   </dependencyManagement>
   
+  
+  
   <dependencies>
   <dependency>
   <groupId>software.amazon.awssdk</groupId>
@@ -34,6 +36,26 @@
   <scope>provided</scope>
   
   </dependency>
+  
+  <dependency>
+
+<groupId>com.amazonaws</groupId>
+<artifactId>aws-java-sdk-s3</artifactId>
+<version>1.11.267</version>
+
+
+ </dependency>
+  
+  <dependency>
+  <groupId>junit</groupId>
+  <artifactId>junit</artifactId>
+  <version>3.8.1</version>
+  <scope>test</scope>
+  
+  
+  </dependency>
+  
+  
   
   </dependencies>
   
@@ -53,5 +75,6 @@
         <version>3.2.3</version>
       </plugin>
     </plugins>
+    <finalName>accessS3</finalName>
   </build>
 </project>
