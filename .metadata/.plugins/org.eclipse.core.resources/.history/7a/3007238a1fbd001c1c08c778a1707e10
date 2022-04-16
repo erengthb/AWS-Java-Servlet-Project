@@ -1,0 +1,10 @@
+package net.codejava.aws;
+
+public class WriteFolder {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

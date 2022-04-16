@@ -1,0 +1,5 @@
+package net.codejava.aws;
+
+public class ListS3Buckets {
+
+}

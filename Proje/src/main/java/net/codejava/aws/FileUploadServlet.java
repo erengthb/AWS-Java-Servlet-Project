@@ -15,8 +15,8 @@ import javax.servlet.http.Part;
 @WebServlet("/upload")
 @MultipartConfig(
 		
-		fileSizeThreshold = 5000 * 5000,  // 1MB
-		maxFileSize = 5000 * 5000 *50, //10MB
+		fileSizeThreshold = 5000 * 5000,  
+		maxFileSize = 5000 * 5000 *50, 
 		maxRequestSize = 5000 * 5000 *60
 		
 		
@@ -51,9 +51,9 @@ public class FileUploadServlet extends HttpServlet {
 		
 		try {
 			 S3Util.uploadFile(fileName, part.getInputStream());
-			 message = "Dosyanz sisteme yüklendi";
+			 message = "Dosyaniz sisteme yuklendi";
 		} catch (Exception ex) {
-			message = "Dosya yüklenemedi" + ex.getMessage()
+			message = "Dosya yuklenemedi" + ex.getMessage()
 ;		}
 		
 		request.setAttribute("message", message);
@@ -66,7 +66,7 @@ public class FileUploadServlet extends HttpServlet {
   private String getFileName( Part part) {
 	  
 	  String contentDisposition = part.getHeader("content-disposition");
-	   int beginIndex = contentDisposition.indexOf("Dosya Adý : " ) +10;
+	   int beginIndex = contentDisposition.indexOf(": " ) +15;
 	   int endIndex = contentDisposition.length() - 1 ;
 	  return contentDisposition.substring(beginIndex, endIndex);
 	  

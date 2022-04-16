@@ -1,0 +1,25 @@
+package net.codejava.aws;
+
+import com.amazonaws.services.s3.AmazonS3;
+import com.amazonaws.services.s3.AmazonS3ClientBuilder;
+
+
+import com.amazonaws.services.s3.model.GetObjectRequest;
+import com.amazonaws.services.s3.model.S3Object;
+
+public class Read {
+
+	public static void main(String[] args) {
+		
+		String key_name = "";
+		String bucket_name ="";
+		
+		
+		
+		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
+		
+		S3Object object = s3.getObject(new GetObjectRequest(bucket_name,key_name));
+
+	}
+
+}

@@ -1,0 +1,33 @@
+package net.codejava.aws;
+
+import com.amazonaws.services.s3.AmazonS3;
+import com.amazonaws.services.s3.AmazonS3ClientBuilder;
+
+public class DeleteFile {
+
+	public static void main(String[] args) {
+		
+		
+		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
+
+		String bucket_name = "erndmrhn";
+		String object_key = "";
+		
+		try {
+			
+			s3.deleteObject(bucket_name , object_key);
+         			
+			
+		}  catch (AmazonServicesException e) {
+			
+			System.err.println(e.getErrorMessage());
+			System.exit(1);
+			
+		}
+		
+		
+		
+		
+	}
+
+}

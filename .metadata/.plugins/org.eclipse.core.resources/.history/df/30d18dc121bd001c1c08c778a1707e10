@@ -1,0 +1,19 @@
+package net.codejava.aws;
+
+import com.amazonaws.services.s3.AmazonS3;
+import com.amazonaws.services.s3.AmazonS3ClientBuilder;
+import com.amazonaws.services.s3.model.ObjectListing;
+
+public class ListFiles {
+
+	public static void main(String[] args) {
+	
+		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
+		ObjectListing ol =  s3.listObjects(bucket_name);
+		List<S3ObjectSummary> objects = ol.getObjectSummaries();
+		
+		
+		
+	}
+
+}
