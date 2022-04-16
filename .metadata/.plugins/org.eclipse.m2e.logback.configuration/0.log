@@ -1485,3 +1485,6 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag u
 2022-04-16 03:17:16,894 [Worker-57: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1-sources.jar
 2022-04-16 03:17:17,034 [Worker-57: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:3.8.1
 2022-04-16 03:17:17,457 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-16 03:17:17,458 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-16 03:17:17,460 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-16 03:17:17,461 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
