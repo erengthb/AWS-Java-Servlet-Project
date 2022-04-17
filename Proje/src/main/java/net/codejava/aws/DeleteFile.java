@@ -12,7 +12,7 @@ public class DeleteFile {
 		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
 
 		String bucket_name = "erndmrhn";
-		String object_key = "; name=\"file\"; filename=\"IMG_20180121_170110.jpg";
+		String object_key = "e=\"file\"; filename=\"video2.mp4";
 		
 		try {
 			

@@ -1,0 +1,107 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.codejava.aws</groupId>
+  <artifactId>Proje</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <name>proje</name>
+  
+  <dependencyManagement>
+  
+ 
+  
+  
+  <dependencies>
+  
+  <dependency>
+  <groupId>software.amazon.awssdk</groupId>
+  <artifactId>bom</artifactId>
+  <version>2.15.0</version>
+  <type>bom</type>
+  <scope>import</scope>
+  </dependency>
+  </dependencies>
+  </dependencyManagement>
+  
+  
+  
+  <dependencies>
+  
+  
+  <dependency>
+  <groupId>software.amazon.awssdk</groupId>
+  <artifactId>s3</artifactId>
+  <version>2.15.0</version>
+  
+  </dependency>
+  
+  
+  <dependency>
+  <groupId>com.amazonaws</groupId>
+  <artifactId>DynamoDBLocal</artifactId>
+  <version>[1.11,2.0]</version>
+  </dependency>
+  
+
+   
+  
+  
+  
+
+  
+  <dependency>
+  <groupId>javax.servlet</groupId>
+  <artifactId>javax.servlet-api</artifactId>
+  <version>4.0.1</version>
+  <scope>provided</scope>
+  
+  </dependency>
+  
+  <dependency>
+
+<groupId>com.amazonaws</groupId>
+<artifactId>aws-java-sdk-s3</artifactId>
+<version>1.11.267</version>
+
+
+ </dependency>
+ 
+ <dependency>
+ <groupId> com.amazonaws</groupId>
+ <artifactId>aws-java-sdk-dynamodb</artifactId>
+ <version>1.11.271</version>
+ 
+ </dependency>
+  
+  <dependency>
+  <groupId>junit</groupId>
+  <artifactId>junit</artifactId>
+  <version>3.8.1</version>
+  <scope>test</scope>
+  
+  
+  </dependency>
+  
+  
+  
+  </dependencies>
+  
+  
+  
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <release>17</release>
+        </configuration>
+      </plugin>
+      <plugin>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.2.3</version>
+      </plugin>
+    </plugins>
+    <finalName>accessS3</finalName>
+  </build>
+</project>

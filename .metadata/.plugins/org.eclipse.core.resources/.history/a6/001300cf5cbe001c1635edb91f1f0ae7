@@ -1,0 +1,16 @@
+package net.codejava.aws;
+
+import com.amazonaws.services.
+public class inserDynamoDb {
+	
+	static AmazonDynamoDb client = AmazonDynamoDBClientBui
+	
+	
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
