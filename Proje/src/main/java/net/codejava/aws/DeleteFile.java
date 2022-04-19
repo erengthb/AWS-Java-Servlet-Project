@@ -11,8 +11,8 @@ public class DeleteFile {
 		
 		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
 
-		String bucket_name = "erndmrhn";
-		String object_key = "e=\"file\"; filename=\"video2.mp4";
+		String bucket_name = "erndmrhn";              // buraya amazondaki bucket adýný yazýyoruz
+		String object_key = "ame=\"b.jpg";                   // Buraya amazondaki silmek istediðimiz dosyanýn adýný veriyoruz
 		
 		try {
 			

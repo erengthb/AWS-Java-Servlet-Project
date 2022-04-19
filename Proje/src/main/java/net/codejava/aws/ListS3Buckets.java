@@ -10,6 +10,9 @@ public class ListS3Buckets {
 
 	public static void main ( String args) {
 		
+		// Amazonda mevcut olan bucketlarý listeler.
+		
+		
 		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
 		List<Bucket> buckets = s3.listBuckets();
 		

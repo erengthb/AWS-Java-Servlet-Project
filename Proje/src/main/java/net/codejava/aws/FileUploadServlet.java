@@ -30,9 +30,12 @@ public class FileUploadServlet extends HttpServlet {
     
     public FileUploadServlet() {
         super();
-        // TODO Auto-generated constructor stub
+       
     }
 
+    // s3 servisine dosya gönderme iþlemleri
+    
+    
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		String description =request.getParameter("description");
@@ -66,7 +69,7 @@ public class FileUploadServlet extends HttpServlet {
   private String getFileName( Part part) {
 	  
 	  String contentDisposition = part.getHeader("content-disposition");
-	   int beginIndex = contentDisposition.indexOf(": " ) +15;
+	   int beginIndex = contentDisposition.indexOf(": " ) +30;
 	   int endIndex = contentDisposition.length() - 1 ;
 	  return contentDisposition.substring(beginIndex, endIndex);
 	  

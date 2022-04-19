@@ -131,9 +131,10 @@ box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.33);
 
 
   <div class="login-box">
+  
     <div class="lb-header">
-      <a href="#" class="active" id="login-box-link">Login</a>
-      <a href="#" id="signup-box-link">Sign Up</a>
+      <a href="#" class="active" id="login-box-link">FileBox Uygulamasi</a>
+    
     </div>
     <div class="social-login">
       <a href="upload.jsp">
@@ -148,9 +149,7 @@ box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.33);
     <form class="email-login">
       
       
-      <div class="u-form-group">
-        <button>Log in</button>
-      </div>
+      
       
     </form>
     

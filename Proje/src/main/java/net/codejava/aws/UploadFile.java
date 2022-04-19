@@ -10,7 +10,7 @@ public class UploadFile {
 
 	public static void main(String[] args) {
 		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
-		// dosya adý ve pathý belirtiyoruz çalýþtýrýldýðýnda bucket a dosyayý göderiyor
+		// dosya adý ve pathý belirtiyoruz çalýþtýrýldýðýnda bucket a dosyayý göderiyor 
 		String bucket_name="erndmrhn";
 		String key_name="";
 		String file_path="";

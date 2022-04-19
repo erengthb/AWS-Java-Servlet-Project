@@ -19,6 +19,8 @@ import javax.servlet.http.Part;
 
 public class ListFilesServlet extends HttpServlet {
 	
+	// Amazona eklenen dosyalarýn listelenmesini saðlayan kod
+	
 	
 	public ListFilesServlet() {
         super();

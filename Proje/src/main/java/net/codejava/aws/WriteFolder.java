@@ -11,6 +11,9 @@ public class WriteFolder {
 
 	public static void main(String[] args) {
 		
+		//lokalden amazon servislerine direkt dosya yazdýrma iþleminis saðlýyor
+		
+		
 		TransferManager xfer_mgr = new TransferManager();
 		
 		String dir_path = "";

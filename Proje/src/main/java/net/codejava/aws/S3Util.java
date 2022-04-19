@@ -17,6 +17,8 @@ import com.amazonaws.services.s3.model.ObjectListing;
 import com.amazonaws.services.s3.model.S3ObjectSummary;
 
 public class S3Util {
+	
+	//baðlantýlar ve servislerin bulunduðu gereklilikler (utilities)
 
 	public static final String BUCKET = "erndmrhn";
 	public static void uploadFile (String fileName , InputStream inputStream) throws S3Exception, AwsServiceException, SdkClientException, IOException {

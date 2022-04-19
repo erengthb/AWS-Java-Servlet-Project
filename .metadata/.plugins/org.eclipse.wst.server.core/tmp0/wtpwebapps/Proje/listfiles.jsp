@@ -1,15 +1,23 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+  <title>List Files</title>
 </head>
 <body>
-
-
-
-
+  <datagrid>
+   <ol style="list-style-type:decimal;">
+    <li> Item  </li>
+      <ol style="list-style-type:lower-alpha;">
+      <li>1 -a. jpg</li>
+      
+      </ol>
+    <li> Item 
+     <ol style="list-style-type:lower-alpha;">
+      <li> 2 -b jpg </li>
+     
+     </ol>
+    </li>
+   </ol>
+  </datagrid>
 </body>
 </html>

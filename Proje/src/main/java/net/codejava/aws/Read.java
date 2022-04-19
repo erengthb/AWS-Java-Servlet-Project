@@ -16,8 +16,11 @@ public class Read {
 
 	public static void main(String[] args) {
 		
-		String key_name = "";
-		String bucket_name ="";
+		// amazondaki veri eðer text verisi ise okumaya yarar
+		
+		
+		String key_name = "ame=\"a.jpg";
+		String bucket_name ="erndmrhn";
 		
 		
 		

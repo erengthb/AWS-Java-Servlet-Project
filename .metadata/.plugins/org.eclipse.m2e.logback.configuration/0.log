@@ -2834,3 +2834,181 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.amazonaws
 2022-04-17 17:44:52,211 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
 2022-04-17 17:44:52,213 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-04-17 17:44:52,214 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 19:35:19,078 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-04-19 19:35:36,002 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 19:35:36,005 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 19:35:36,007 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 19:35:36,008 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:28:39,252 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:28:39,254 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:28:39,256 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:28:39,258 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:31:01,045 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:01,047 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:31:01,048 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:01,050 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:31:04,901 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:04,903 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:31:04,904 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:04,906 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:31:11,568 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:11,571 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:31:11,574 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:11,576 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:31:22,956 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:22,957 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:31:22,959 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:31:22,960 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:32:04,276 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:04,294 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:32:04,296 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:04,297 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:32:19,188 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:19,190 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:32:19,193 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:19,195 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:32:55,619 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:55,621 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:32:55,623 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:32:55,624 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:33:24,435 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:33:24,437 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:33:24,439 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:33:24,441 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:33:49,038 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:33:49,039 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:33:49,041 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:33:49,043 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:34:14,140 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:34:14,141 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:34:14,142 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:34:14,143 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:34:37,972 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:34:37,974 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:34:37,975 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:34:37,977 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:34:46,773 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://s3-us-west-2.amazonaws.com/dynamodb-local/release/com/amazonaws/DynamoDBLocal/1.18.0/DynamoDBLocal-1.18.0-javadoc.jar
+2022-04-19 20:34:47,223 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/amazonaws/DynamoDBLocal/1.18.0/DynamoDBLocal-1.18.0-javadoc.jar
+2022-04-19 20:34:47,232 [Worker-41: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for com.amazonaws:DynamoDBLocal:1.18.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.amazonaws:DynamoDBLocal:jar:javadoc:1.18.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:297)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-04-19 20:35:16,629 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:35:16,630 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:35:16,632 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:35:16,633 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:35:52,795 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:35:52,797 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:35:52,798 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:35:52,799 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:36:35,447 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:36:35,448 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:36:35,452 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:36:35,453 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:36:50,764 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:36:50,766 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:36:50,768 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:36:50,770 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:37:41,347 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:37:41,349 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:37:41,351 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:37:41,352 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:38:26,662 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:38:26,663 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:38:26,665 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:38:26,666 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:39:20,086 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:39:20,087 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:39:20,089 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:39:20,090 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:39:37,511 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:39:37,513 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:39:37,515 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:39:37,517 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:40:55,963 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:40:55,965 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:40:55,966 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:40:55,967 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:41:54,372 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:41:54,373 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:41:54,374 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:41:54,375 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:41:56,438 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:41:56,439 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:41:56,441 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:41:56,442 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:42:15,904 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:15,907 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:42:15,909 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:15,910 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:42:28,792 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:28,794 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:42:28,795 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:28,797 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:42:42,811 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:42,813 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:42:42,814 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:42,815 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:42:45,881 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:45,883 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:42:45,884 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:45,885 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:42:53,477 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:53,478 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:42:53,479 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:42:53,480 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:43:01,833 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:01,834 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:43:01,835 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:01,836 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:43:10,449 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:10,451 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:43:10,451 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:10,452 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:43:13,418 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:13,420 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:43:13,421 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:13,422 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:43:38,603 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:38,604 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:43:38,606 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:43:38,607 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:46:57,307 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:46:57,308 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:46:57,309 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:46:57,311 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:47:07,496 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:07,497 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:47:07,500 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:07,501 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:47:23,629 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:23,630 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:47:23,631 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:23,632 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:47:31,339 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:31,340 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:47:31,341 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:47:31,343 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:52:29,963 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:52:29,964 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:52:29,966 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:52:29,968 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
+2022-04-19 20:54:01,092 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:54:01,094 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\main\resources
+2022-04-19 20:54:01,096 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-04-19 20:54:01,098 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\erend\Desktop\Github Projeleri\AWS-Java-Servlet-Project\Proje\src\test\resources
