@@ -8,12 +8,12 @@
    <ol style="list-style-type:decimal;">
     <li> Item  </li>
       <ol style="list-style-type:lower-alpha;">
-      <li>1 -a. jpg</li>
+      <li>"a.jpg</li>
       
       </ol>
     <li> Item 
      <ol style="list-style-type:lower-alpha;">
-      <li> 2 -b jpg </li>
+      <li>"b.jpg </li>
      
      </ol>
     </li>

@@ -69,7 +69,7 @@ public class FileUploadServlet extends HttpServlet {
   private String getFileName( Part part) {
 	  
 	  String contentDisposition = part.getHeader("content-disposition");
-	   int beginIndex = contentDisposition.indexOf(": " ) +30;
+	   int beginIndex = contentDisposition.indexOf(": " ) +34;
 	   int endIndex = contentDisposition.length() - 1 ;
 	  return contentDisposition.substring(beginIndex, endIndex);
 	  

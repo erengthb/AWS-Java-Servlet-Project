@@ -14,7 +14,7 @@ public class CreateBucket {
 		// amazon s3 servisinde yeni bir bucket oluþturmak için kullanýlýr
 		
 		final AmazonS3 s3 =  AmazonS3ClientBuilder.defaultClient();
-		String bucket_name= "erndmrhn";
+		String bucket_name= "deneme";
 		
 		try {
 			s3.createBucket(bucket_name);
